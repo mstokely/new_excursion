@@ -19,6 +19,14 @@ h2 {
     text-align: center;
 }
 
+h3 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 21px;
+    color:grey;
+    text-align: center;
+}
+
 a p {
     color:aquamarine;
     font-size: 16px;
@@ -29,4 +37,15 @@ video {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.app {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer p {
+    text-align: right;
+    color: grey
 }
